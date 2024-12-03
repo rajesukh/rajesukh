@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **prometheus, SQL, Python, Svelte, selenium BUN-Javascript Runtime**
 
-- 📝 I regularly write articles on [Digital Marketing - https://digitalmarketingauto.com/](DOMAIN expired in Dec'22)
 
 **- 💬 Ask me about **MERN, AWS, kubernetes, Docker, Terraform, Maven, ant, jenkins, Helm,** 
 

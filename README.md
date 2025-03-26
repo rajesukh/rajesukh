@@ -12,7 +12,7 @@
 
 **- 💬 Ask me about **MERN, AWS, kubernetes, Docker, Terraform, Maven, ant, jenkins, Helm,** 
 
-- 📫 How to reach me **https://rajeshsukheja.com/ ((Domain expired in Nov'22) -- cparajesh2668@gmail.com**
+- 📫 How to reach me **https://r.com/ ((Domain expired in Nov'22) -- cparajesh2668@gmail.com**
 
 **- professional experience : A decade of experience in corporate world, Had worked with Aditya Birla Capital, ICICI Lombard, IIFL, INDIABULLS**
 
